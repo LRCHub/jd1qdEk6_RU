@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "多次元宇宙融合論",
+  "base_artist": "TAKIO",
+  "createdAt": "2026-03-29T13:52:55.269622Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "多次元宇宙融合論 (feat. つぐ)",
+      "artist": "TAKIO",
+      "has_synced": false,
+      "path": "select/pl_01_多次元宇宙融合論_(feat._つぐ)_TAKIO.txt"
+    }
+  ]
+}
